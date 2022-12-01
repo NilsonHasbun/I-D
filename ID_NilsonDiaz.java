@@ -1,11 +1,12 @@
 
-package com.mycompany.i.d_nilsondiaz;
+package com.mycompany.i.d_nilsondiaz_santaigoCadavid;
 /* Course name and code -> Algorithms And Complexity
    Student name and ID -> Nilson David Diaz Hasbun ID 200152551
+                          Santiago Hernández Cadavid ID 200153162
    Name of the activity -> I+D
    Date -> 17/11/2022
    Description of the activity |
-                               V
+                               
    El algoritmo de par más cercano se usa para encontrar la distancia más cercana. cortes entre dos coordenadas generadas al azar en una LinkedList
  */
 import java.util.ArrayList;
